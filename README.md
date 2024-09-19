@@ -7,5 +7,5 @@ Este documento em LaTeX foi construído seguindo as normas ABNT de 2024, servind
 Todos os os arquivos necessários para compilar o código LaTeX e gerar o TCC final estão bem colocados aqui, como também imagens, gráficos e dados relevantes para a pesquisa proposta e realizada. 
 Sinta-se livre utilizar seu método favorito de visualização e edição LaTeX. Por razões de praticidade e sincronização, foi utilizado somente o Overleaf™ para construção deste trabalho.
 Referências utilizadas:
-- https://github.com/abntex/abntex2 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/Gabrielr2508/template-tcc-latex-univasf/issues)
-- https://github.com/caecom/template-tcc-latex-univasf
+- https://github.com/abntex/abntex2 
+- https://github.com/caecom/template-tcc-latex-univasf [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/Gabrielr2508/template-tcc-latex-univasf/issues)
